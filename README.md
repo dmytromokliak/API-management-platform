@@ -14,11 +14,3 @@ It means that you can:
 * Reuse **all your Symfony and JavaScript skills**, and benefit from the incredible amount of documentation available.
 * Enjoy the popular [Doctrine ORM](https://www.doctrine-project.org/projects/orm.html) (used by default, but fully optional:
   you can use the data provider you want, including but not limited to MongoDB and Elasticsearch)
-
-## Install
-
-[Read the official "Getting Started" guide](https://api-platform.com/docs/distribution/).
-
-## Credits
-
-Created by [Kévin Dunglas](https://dunglas.fr). Commercial support is available at [Les-Tilleuls.coop](https://les-tilleuls.coop).
